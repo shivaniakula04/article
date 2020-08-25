@@ -1,0 +1,178 @@
+@media (min-width:600px)
+{
+	.part
+	{
+		background-color:black;
+		color:silver;
+		font-size:40px;
+		text-align:center;
+		padding:10px;
+		border:solid silver 5px;
+		border-radius:5px;
+		text-decoration:underline;
+	}
+	button
+	{
+		font-size:20px;
+	}
+	h1
+	{
+		font-size:30px;
+		border:solid silver 3px;
+		text-align:center;
+	}
+	.home
+	{
+		text-align:left;
+		background-color:silver;
+		border:dashed black 5px;
+		padding:10px;
+		text-align:center;
+		font-family:cursive;
+	}
+	ul
+	{
+		text-align:left;
+	}
+	.slides
+	{
+		display:block;
+		padding:10px;
+		text-align:center;
+	}
+	img
+	{
+		border:solid silver 3px;
+		padding:5px;
+		border-radius:3px;
+	}
+	.test
+	{
+		text-align:center;
+	}
+	.loc
+	{
+		font-size:30px;
+		text-align:center;
+		font-family:cursive;
+		color:silver;
+		background-color:black;
+		padding:2px;
+		border-radius:3px;
+	}
+	.gallery
+	{
+		text-align:center;
+		
+	}
+	.sample
+	{
+		font-size:40px;
+		text-align:center;
+		font-family:cursive;
+		background-color:black;
+		color:silver;
+		border-radius:5px;
+	}
+	.map
+	{
+		text-align:center;
+		background-color:silver;
+		border:dashed black 5px;
+		padding:10px;
+	}	
+	
+}
+@media (min-width:600px)
+{
+	.part
+	{
+		background-color:black;
+		color:silver;
+		font-size:60px;
+		text-align:center;
+		padding:10px;
+		border:solid silver 5px;
+		border-radius:5px;
+		text-decoration:underline;
+	}
+	button
+	{
+		font-size:30px;
+	}
+	h1
+	{
+		font-size:30px;
+		border:solid silver 3px;
+		text-align:center;
+	}
+	.home
+	{
+		font-size:30px;
+		text-align:left;
+		background-color:silver;
+		border:dashed black 5px;
+		padding:10px;
+		text-align:center;
+		font-family:cursive;
+	}
+	ul
+	{
+		text-align:left;
+	}
+	.slides
+	{
+		display:block;
+		padding:10px;
+		text-align:center;
+	}
+	img
+	{
+		height:300px;
+		width:500px;
+		border:solid silver 3px;
+		padding:5px;
+		border-radius:3px;
+	}
+	.test
+	{
+		text-align:center;
+	}
+	.loc
+	{
+		font-size:50px;
+		text-align:center;
+		font-family:cursive;
+		color:silver;
+		background-color:black;
+		padding:2px;
+		border-radius:3px;
+	}
+	.gallery
+	{
+		text-align:center;
+		font-size:50px;
+	}
+	a
+	{
+		font-size:30px;
+	}
+	.sample
+	{
+		font-size:40px;
+		text-align:center;
+		font-family:cursive;
+		background-color:black;
+		color:silver;
+		border-radius:5px;
+	}
+	.map
+	{
+		background-color:silver;
+		border:dashed black 5px;
+		padding:10px;
+		text-align:center;
+	}	
+		
+	
+}
